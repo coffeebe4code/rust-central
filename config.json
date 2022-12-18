@@ -1,3 +1,9 @@
 {
-  "field": "HELLO WORLD"
+  "field": "HELLO WORLD",
+  "vals": [
+    "correct"
+  ],
+  "fails": [
+    true
+  ]
 }
