@@ -1,5 +1,7 @@
 {
   "field": "HELLO WORLD",
+  "booly": false,
+  "big_int": 9999999,
   "vals": [
     "correct"
   ],
